@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-258j-public-transportation-systems-spring-2017/3c52a58746ec9861f054c9a6c48d5c56_MIT1_258JS17_lec04and05.pdf
+file: /media/courses/1-258j-public-transportation-systems-spring-2017/3c52a58746ec9861f054c9a6c48d5c56_MIT1_258JS17_lec04and05.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: MIT1_258_JS17_lec04andlec05
 uid: 3c52a587-46ec-9861-f054-c9a6c48d5c56

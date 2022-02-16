@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-258j-public-transportation-systems-spring-2017/c8505d5b58c57f51b7c71cf01533459d_MIT1_258JS17_HW1Data.xlsx
+file: /media/courses/1-258j-public-transportation-systems-spring-2017/c8505d5b58c57f51b7c71cf01533459d_MIT1_258JS17_HW1Data.xlsx
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: MIT1_258JS17_HW1Data
 uid: c8505d5b-58c5-7f51-b7c7-1cf01533459d
