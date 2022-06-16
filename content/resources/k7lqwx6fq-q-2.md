@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-258j-public-transportation-systems-spring-2017/cf8110e07d645513a5ff09d2441739af_K7lqWX6fq-Q.vtt
+file: /courses/1-258j-public-transportation-systems-spring-2017/cf8110e07d645513a5ff09d2441739af_K7lqWX6fq-Q.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

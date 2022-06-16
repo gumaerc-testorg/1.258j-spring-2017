@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This page provides general information regarding grading, textbook, and
+  other course policies for MIT course 1.258 Public Transportation Systems of spring
+  2017.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -19,7 +22,7 @@ This course discusses the evolution and role of urban public transportation mode
 Prerequisites
 -------------
 
-[_1.201J Transportation Systems Analysis: Demand and Economics_](/courses/1-201j-transportation-systems-analysis-demand-and-economics-fall-2008/)
+[_1.201J Transportation Systems Analysis: Demand and Economics_](/courses/1-201j-transportation-systems-analysis-demand-and-economics-fall-2008)
 
 Requirements
 ------------
