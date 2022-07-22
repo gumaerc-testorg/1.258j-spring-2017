@@ -5,6 +5,7 @@ file: /courses/1-258j-public-transportation-systems-spring-2017/c8505d5b58c57f51
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
