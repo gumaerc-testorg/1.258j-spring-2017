@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-258j-public-transportation-systems-spring-2017/1c8dd257fa37b76fab4d53a19b7d13e4_I2K5WnG_TLs.pdf
+file_size: 126582
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
