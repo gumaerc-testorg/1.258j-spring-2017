@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/1-258j-public-transportation-systems-spring-2017/c8505d5b58c57f51b7c71cf01533459d_MIT1_258JS17_HW1Data.xlsx
+file: /ol-ocw-studio-app/courses/1-258j-public-transportation-systems-spring-2017/c8505d5b58c57f51b7c71cf01533459d_MIT1_258JS17_HW1Data.xlsx
 file_size: 63461
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 learning_resource_types:
