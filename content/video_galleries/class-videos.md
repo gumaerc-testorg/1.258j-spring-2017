@@ -2,6 +2,7 @@
 content_type: video_gallery
 description: This page contains all available video captures for the MIT course 1.258
   Public Transportation System of spring 2017.
+draft: false
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection
@@ -28,8 +29,6 @@ videos:
   - 51b5c10a-23ca-d7a9-8ff8-1e125c463598
   website: 1-258j-public-transportation-systems-spring-2017
 ---
-
-Class videos for lectures 12–16, 18, and 23, are not available.
+Class videos for lectures 11, 12, 14, 15, 16, 18, and 23 are not available.
 
 {{< video-gallery "7bd7df5c-2ffa-d150-30dc-543534b4530b" >}}
-
