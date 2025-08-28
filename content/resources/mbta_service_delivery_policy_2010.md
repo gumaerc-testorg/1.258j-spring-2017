@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/1-258j-public-transportation-systems-spring-2017/e8a17bc393fb15e541a039ff013c16bd_MBTA_service_delivery_policy_2010.pdf
+file: /ol-ocw-studio-app/courses/1-258j-public-transportation-systems-spring-2017/e8a17bc393fb15e541a039ff013c16bd_MBTA_service_delivery_policy_2010.pdf
 file_size: 321453
 file_type: application/pdf
 learning_resource_types:
